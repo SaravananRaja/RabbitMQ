@@ -1,0 +1,3 @@
+com\rabbitmq\config\Configuration.class
+com\rabbitmq\producer\MainClass.class
+com\rabbitmq\producer\Producer.class
